@@ -1,2 +1,2 @@
 # blog-test-one
-Basci blog practice.
+Basic blog practice.
